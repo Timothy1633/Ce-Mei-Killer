@@ -19,7 +19,6 @@
                     
                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 10px;">
                         <button id="wb-btn-all" style="padding: 8px; background: #7289da; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 12px;">拉黑所有粉丝</button>
-                        <button id="wb-btn-5000" style="padding: 8px; background: #f26d7d; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 12px;">拉黑前5000粉</button>
                         <button id="wb-btn-resume" style="padding: 8px; background: #43b581; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 12px;">断点继续拉黑</button>
                         <button id="wb-btn-stop" style="padding: 8px; background: #f04747; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 12px; font-weight: bold;">⛔ 停止执行</button>
                     </div>
@@ -220,3 +219,4 @@
     // 启动 UI
     createUI();
 })();
+
