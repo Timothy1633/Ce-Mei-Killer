@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         微博点赞拉黑 (跨端修正版)
+// @name         微博点赞拉黑 (跨端修正版
 // @namespace    http://tampermonkey.net/
 // @version      3.1
 // @description  从 m.weibo.cn 抓取用户名，调用 weibo.com 屏蔽接口
